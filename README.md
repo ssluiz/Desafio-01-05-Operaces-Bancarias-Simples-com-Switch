@@ -8,12 +8,12 @@ www.dio.me
 - #### Ferramenta
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # Desafio 01 / 05 - Operações Bancárias Simples com Switch
 ## Descrição
 Você está desenvolvendo um programa simples em Java para simular operações bancárias básicas. A aplicação deve permitir ao usuário realizar depósitos, saques e consultar o saldo em uma conta bancária virtual
 <br><br>
-
 
 ## Entrada
 
